@@ -1,0 +1,16 @@
+{
+     "app": {
+          "name": "Health"
+     },
+     "nav": {
+          "home": "Home",
+          "healthMoney": "Health and Money",
+          "money": "Money"
+     },
+
+     "newsTile": {
+          "title": "News",
+          "text": "This is really interesting news!",
+          "read": "Read More"
+     }
+}
